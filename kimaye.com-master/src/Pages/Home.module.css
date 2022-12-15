@@ -1,0 +1,30 @@
+.recommend{
+    font-family:cursive;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 92%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.mainknowmore{
+    background-color: #7d9c5b;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-family: cursive;
+    margin-bottom: 150px;
+}
+.submainknowmore{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    color: white;
+    width: 90%;
+   
+}

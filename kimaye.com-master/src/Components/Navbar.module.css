@@ -1,0 +1,33 @@
+.uppernotification {
+  background-color: #437111;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  font-size: 14px;
+  height: 35px;
+  width: 100%;
+  cursor: pointer;
+  
+}
+@media (max-width: 600px) {
+  .uppernotification {
+    display: none;
+    
+  }
+}
+
+.leftmenu{
+  display: flex;
+  gap: 40px;
+  cursor: pointer;
+  
+}
+
+.leftmenu>div>a{
+  text-decoration: none;
+  /* color: black; */
+  cursor: pointer;
+}
+
