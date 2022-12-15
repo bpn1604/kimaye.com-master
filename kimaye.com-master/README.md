@@ -35,7 +35,7 @@
 ### Responsiveness for all devices
 
 ## Deployment : 
-#### versel:- 
+
 
 
 
