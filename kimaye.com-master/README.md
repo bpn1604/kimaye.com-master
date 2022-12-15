@@ -37,7 +37,7 @@
 ## Deployment : 
 #### versel:- 
 
-<a href="https://fabulous-queijadas-f98643.netlify.app/">kimye-com.vercel.app<a/>
+
 
 
 
